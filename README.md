@@ -1,2 +1,6 @@
-# velora-ecommerce
-Modern lifestyle e-commerce website with clean design, smooth UX, and curated fashion and essentials
+# Velora — Premium Lifestyle Marketplace
+
+Velora is a premium e-commerce platform for sneakers, streetwear, and essentials, offering a modern UI, smooth navigation, and a seamless shopping experience.
+
+## Live Website
+velora-premium-lookbook.lovable.app
